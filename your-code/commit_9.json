@@ -1,0 +1,393 @@
+[
+  {
+    "sha": "046be6e3d4871bcb2276fb66e5570b78b7e57293",
+    "node_id": "MDY6Q29tbWl0MTg5NTYyMTA2OjA0NmJlNmUzZDQ4NzFiY2IyMjc2ZmI2NmU1NTcwYjc4YjdlNTcyOTM=",
+    "commit": {
+      "author": {
+        "name": "ta-datapt-bcn",
+        "email": "50545821+ta-datapt-bcn@users.noreply.github.com",
+        "date": "2019-05-31T09:54:31Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2019-05-31T09:54:31Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "81b77f26d763ebfe4503f161ecf0bef1123bcbcb",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/git/trees/81b77f26d763ebfe4503f161ecf0bef1123bcbcb"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/git/commits/046be6e3d4871bcb2276fb66e5570b78b7e57293",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJc8PnXCRBK7hj4Ov3rIwAAdHIIAAZhxNi1Ov1P6lkOthhKrcYZ\nf10Nu7iUw01pJX7mdzToW51xq65PGjwwTREdEfL1HwuvFmomLHunRuXv/EGVAMOC\nalJsz9ybbK+bpoIS7Qpn4l2CI0YiCYsAYc/N7Jh/ZmVlUtd/2Bzh0w//Dzljyym6\nBdK5MinbWZnrAuUm9qxb89Y6v9+JVlzmTuSZA1sbJ793O5noWlDELsd5ibS4jRUB\n/OSLPjmoIyV846UhZHbrSPyKezqsh9sc6PNu20bHDQNxFVF1EI/l8JuOCxmXi2t/\nSjLSwp08x6ZA/iEOKzWv57A2zmfBDZnIW6fxfs2hia8SnxgrHa3S8nvgrKrnb0o=\n=/FLK\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 81b77f26d763ebfe4503f161ecf0bef1123bcbcb\nparent 82ebc2938c7f3fd4838edb5e85c5de3df27769e7\nauthor ta-datapt-bcn <50545821+ta-datapt-bcn@users.noreply.github.com> 1559296471 +0200\ncommitter GitHub <noreply@github.com> 1559296471 +0200\n\nUpdate README.md"
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/commits/046be6e3d4871bcb2276fb66e5570b78b7e57293",
+    "html_url": "https://github.com/ta-datapt-bcn/lab-git-basics-merge-conflicts/commit/046be6e3d4871bcb2276fb66e5570b78b7e57293",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/commits/046be6e3d4871bcb2276fb66e5570b78b7e57293/comments",
+    "author": {
+      "login": "ta-datapt-bcn",
+      "id": 50545821,
+      "node_id": "MDQ6VXNlcjUwNTQ1ODIx",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/50545821?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ta-datapt-bcn",
+      "html_url": "https://github.com/ta-datapt-bcn",
+      "followers_url": "https://api.github.com/users/ta-datapt-bcn/followers",
+      "following_url": "https://api.github.com/users/ta-datapt-bcn/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ta-datapt-bcn/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ta-datapt-bcn/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ta-datapt-bcn/subscriptions",
+      "organizations_url": "https://api.github.com/users/ta-datapt-bcn/orgs",
+      "repos_url": "https://api.github.com/users/ta-datapt-bcn/repos",
+      "events_url": "https://api.github.com/users/ta-datapt-bcn/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ta-datapt-bcn/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "82ebc2938c7f3fd4838edb5e85c5de3df27769e7",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/commits/82ebc2938c7f3fd4838edb5e85c5de3df27769e7",
+        "html_url": "https://github.com/ta-datapt-bcn/lab-git-basics-merge-conflicts/commit/82ebc2938c7f3fd4838edb5e85c5de3df27769e7"
+      }
+    ]
+  },
+  {
+    "sha": "82ebc2938c7f3fd4838edb5e85c5de3df27769e7",
+    "node_id": "MDY6Q29tbWl0MTg5NTYyMTA2OjgyZWJjMjkzOGM3ZjNmZDQ4MzhlZGI1ZTg1YzVkZTNkZjI3NzY5ZTc=",
+    "commit": {
+      "author": {
+        "name": "ta-datapt-bcn",
+        "email": "50545821+ta-datapt-bcn@users.noreply.github.com",
+        "date": "2019-05-31T09:13:03Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2019-05-31T09:13:03Z"
+      },
+      "message": "Delete conflict-merge",
+      "tree": {
+        "sha": "2ecc355d7d19c7b20cd638efcb81c76b675890ad",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/git/trees/2ecc355d7d19c7b20cd638efcb81c76b675890ad"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/git/commits/82ebc2938c7f3fd4838edb5e85c5de3df27769e7",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJc8PAfCRBK7hj4Ov3rIwAAdHIIAEKHZ/2kdqbU0lO6ji6EaX4K\nNBlNYYXvu/e+vmmR9W4dB6wUv+lsJ1I3+i0bmyszdi0fIZZeNbVzztQPKwU9ABjg\nmMp4z4k3Z4j0HWwN9AMOBOehI+PtdThRA99yEJdB/lyctv4ZhaWQhAnDoozODtsS\nv0cPxrjEr6nxMh/dd1XHlWcaxQiWiH8zS8mi3Y49EbQRMHSi/ND3oIf4Bi8Aa74O\nse7RG7pXrozm3lzfw8szXS2ohxEJyzNbr+dakcOierG8PwAlsy8eBTHW99PgbhhS\njhBLASmVZTcvAtdBVL/EzXhSNz8VVrCe0f6icsnnpNpzRtQfwEpbFgec5X8gsM0=\n=Bdha\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 2ecc355d7d19c7b20cd638efcb81c76b675890ad\nparent fcbc7b60879fcd99628a0f6906c2bf80d62956fc\nauthor ta-datapt-bcn <50545821+ta-datapt-bcn@users.noreply.github.com> 1559293983 +0200\ncommitter GitHub <noreply@github.com> 1559293983 +0200\n\nDelete conflict-merge"
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/commits/82ebc2938c7f3fd4838edb5e85c5de3df27769e7",
+    "html_url": "https://github.com/ta-datapt-bcn/lab-git-basics-merge-conflicts/commit/82ebc2938c7f3fd4838edb5e85c5de3df27769e7",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/commits/82ebc2938c7f3fd4838edb5e85c5de3df27769e7/comments",
+    "author": {
+      "login": "ta-datapt-bcn",
+      "id": 50545821,
+      "node_id": "MDQ6VXNlcjUwNTQ1ODIx",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/50545821?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ta-datapt-bcn",
+      "html_url": "https://github.com/ta-datapt-bcn",
+      "followers_url": "https://api.github.com/users/ta-datapt-bcn/followers",
+      "following_url": "https://api.github.com/users/ta-datapt-bcn/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ta-datapt-bcn/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ta-datapt-bcn/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ta-datapt-bcn/subscriptions",
+      "organizations_url": "https://api.github.com/users/ta-datapt-bcn/orgs",
+      "repos_url": "https://api.github.com/users/ta-datapt-bcn/repos",
+      "events_url": "https://api.github.com/users/ta-datapt-bcn/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ta-datapt-bcn/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "fcbc7b60879fcd99628a0f6906c2bf80d62956fc",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/commits/fcbc7b60879fcd99628a0f6906c2bf80d62956fc",
+        "html_url": "https://github.com/ta-datapt-bcn/lab-git-basics-merge-conflicts/commit/fcbc7b60879fcd99628a0f6906c2bf80d62956fc"
+      }
+    ]
+  },
+  {
+    "sha": "fcbc7b60879fcd99628a0f6906c2bf80d62956fc",
+    "node_id": "MDY6Q29tbWl0MTg5NTYyMTA2OmZjYmM3YjYwODc5ZmNkOTk2MjhhMGY2OTA2YzJiZjgwZDYyOTU2ZmM=",
+    "commit": {
+      "author": {
+        "name": "ta-datapt-bcn",
+        "email": "50545821+ta-datapt-bcn@users.noreply.github.com",
+        "date": "2019-05-31T09:12:31Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2019-05-31T09:12:31Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "6c06a641bb21dd12d3051c3c206c98f4318e9a83",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/git/trees/6c06a641bb21dd12d3051c3c206c98f4318e9a83"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/git/commits/fcbc7b60879fcd99628a0f6906c2bf80d62956fc",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJc8O//CRBK7hj4Ov3rIwAAdHIIACTDeg3a/I7R0PNjYZzauPgJ\ntQeAcqie28IkZfLVlS1DAboZ8C4uoMI9s1trTVxlkjoTexHoCeWBo/pA1BMn31Hn\nslTPimZbFdiFXvvENrkJ0FYPVGRTzXj20ESxTfHZ1H3PtVviducBV+5pHULV1SK3\noL97eS2NkyM/gjVtYDbmvRNDOvWCQgcXVGfPJ4ouKcFfv8oVM5tsAB3bcpQ5AoHD\ny4kAaYKrFcJHCKbv+gJ/sp0XGmvRvKMlTgA6H05xNsgX8RA2k2jlpUiZumHp5Muo\nNKJ2Ghd/tvm/lq28QtJPNobOZ5z/NLl95AcqS20WviEP+SuGTnVokMgIeXRPtLc=\n=3B00\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 6c06a641bb21dd12d3051c3c206c98f4318e9a83\nparent b5c0f35518fdf30d290e0fd9e35c58b09e7f9ec8\nauthor ta-datapt-bcn <50545821+ta-datapt-bcn@users.noreply.github.com> 1559293951 +0200\ncommitter GitHub <noreply@github.com> 1559293951 +0200\n\nUpdate README.md"
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/commits/fcbc7b60879fcd99628a0f6906c2bf80d62956fc",
+    "html_url": "https://github.com/ta-datapt-bcn/lab-git-basics-merge-conflicts/commit/fcbc7b60879fcd99628a0f6906c2bf80d62956fc",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/commits/fcbc7b60879fcd99628a0f6906c2bf80d62956fc/comments",
+    "author": {
+      "login": "ta-datapt-bcn",
+      "id": 50545821,
+      "node_id": "MDQ6VXNlcjUwNTQ1ODIx",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/50545821?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ta-datapt-bcn",
+      "html_url": "https://github.com/ta-datapt-bcn",
+      "followers_url": "https://api.github.com/users/ta-datapt-bcn/followers",
+      "following_url": "https://api.github.com/users/ta-datapt-bcn/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ta-datapt-bcn/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ta-datapt-bcn/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ta-datapt-bcn/subscriptions",
+      "organizations_url": "https://api.github.com/users/ta-datapt-bcn/orgs",
+      "repos_url": "https://api.github.com/users/ta-datapt-bcn/repos",
+      "events_url": "https://api.github.com/users/ta-datapt-bcn/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ta-datapt-bcn/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b5c0f35518fdf30d290e0fd9e35c58b09e7f9ec8",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/commits/b5c0f35518fdf30d290e0fd9e35c58b09e7f9ec8",
+        "html_url": "https://github.com/ta-datapt-bcn/lab-git-basics-merge-conflicts/commit/b5c0f35518fdf30d290e0fd9e35c58b09e7f9ec8"
+      }
+    ]
+  },
+  {
+    "sha": "b5c0f35518fdf30d290e0fd9e35c58b09e7f9ec8",
+    "node_id": "MDY6Q29tbWl0MTg5NTYyMTA2OmI1YzBmMzU1MThmZGYzMGQyOTBlMGZkOWUzNWM1OGIwOWU3ZjllYzg=",
+    "commit": {
+      "author": {
+        "name": "ta-datapt-bcn",
+        "email": "50545821+ta-datapt-bcn@users.noreply.github.com",
+        "date": "2019-05-31T09:07:25Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2019-05-31T09:07:25Z"
+      },
+      "message": "uploaded images",
+      "tree": {
+        "sha": "929a5f1717dda37a1b0862b93b47fce2bfb10741",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/git/trees/929a5f1717dda37a1b0862b93b47fce2bfb10741"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/git/commits/b5c0f35518fdf30d290e0fd9e35c58b09e7f9ec8",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJc8O7NCRBK7hj4Ov3rIwAAdHIIAGS1AnbBeosi2LjlWbxqyzFe\nnBfF4dcql6hSypty2ZKzWp2MYjj72vdSorwnk0xeMBdlTCrgYNjEUvALKy9aFhWi\nIg3iALifPMNcRVy0imh57COTRb0UjjOUz75eqwtR/vBmIxybjasSZA3dFbuJ94d7\nkf79DYCyMYkNK7T6YX65otkTARnfOCI5RXWarn+muzz+8U1nxuSqHZb5CdrhOwBK\n6w5LWAq7SYk5jb/LQMjeABvzzbQGmT5YcldgzJHJEHuovRKokeohSs1EjmyiW+Zc\nkpiDuy92wK9kKXlGYGhp74Rn9axxTiY1PyXIfp6cN+s4a1ggAsspo9rU1u25ZDY=\n=EGDe\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 929a5f1717dda37a1b0862b93b47fce2bfb10741\nparent 8d445d2ef6b9e805320bcedff2e5cc927c38f75b\nauthor ta-datapt-bcn <50545821+ta-datapt-bcn@users.noreply.github.com> 1559293645 +0200\ncommitter GitHub <noreply@github.com> 1559293645 +0200\n\nuploaded images"
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/commits/b5c0f35518fdf30d290e0fd9e35c58b09e7f9ec8",
+    "html_url": "https://github.com/ta-datapt-bcn/lab-git-basics-merge-conflicts/commit/b5c0f35518fdf30d290e0fd9e35c58b09e7f9ec8",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/commits/b5c0f35518fdf30d290e0fd9e35c58b09e7f9ec8/comments",
+    "author": {
+      "login": "ta-datapt-bcn",
+      "id": 50545821,
+      "node_id": "MDQ6VXNlcjUwNTQ1ODIx",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/50545821?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ta-datapt-bcn",
+      "html_url": "https://github.com/ta-datapt-bcn",
+      "followers_url": "https://api.github.com/users/ta-datapt-bcn/followers",
+      "following_url": "https://api.github.com/users/ta-datapt-bcn/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ta-datapt-bcn/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ta-datapt-bcn/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ta-datapt-bcn/subscriptions",
+      "organizations_url": "https://api.github.com/users/ta-datapt-bcn/orgs",
+      "repos_url": "https://api.github.com/users/ta-datapt-bcn/repos",
+      "events_url": "https://api.github.com/users/ta-datapt-bcn/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ta-datapt-bcn/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8d445d2ef6b9e805320bcedff2e5cc927c38f75b",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/commits/8d445d2ef6b9e805320bcedff2e5cc927c38f75b",
+        "html_url": "https://github.com/ta-datapt-bcn/lab-git-basics-merge-conflicts/commit/8d445d2ef6b9e805320bcedff2e5cc927c38f75b"
+      }
+    ]
+  },
+  {
+    "sha": "8d445d2ef6b9e805320bcedff2e5cc927c38f75b",
+    "node_id": "MDY6Q29tbWl0MTg5NTYyMTA2OjhkNDQ1ZDJlZjZiOWU4MDUzMjBiY2VkZmYyZTVjYzkyN2MzOGY3NWI=",
+    "commit": {
+      "author": {
+        "name": "ta-datapt-bcn",
+        "email": "50545821+ta-datapt-bcn@users.noreply.github.com",
+        "date": "2019-05-31T08:56:10Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2019-05-31T08:56:10Z"
+      },
+      "message": "Initial commit",
+      "tree": {
+        "sha": "4890f02e4bfb833cecdf8fd98e15f02e2b6c1821",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/git/trees/4890f02e4bfb833cecdf8fd98e15f02e2b6c1821"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/git/commits/8d445d2ef6b9e805320bcedff2e5cc927c38f75b",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJc8OwqCRBK7hj4Ov3rIwAAdHIIAAztXG/AdCwFvyKgXYx66Twd\nEx8a0BotaITT1VscrVgP7Wru10V3rb2FsJw25Bv2DGdLmE56ZYTXlB3OHP7D5Si+\nfLImL/9LDfbesEegXK7zjP9FiLTcEfVgEh7g/LimziJnkxoIvBpSWU9XVUdEwWWT\ng6cPx4fAx/UQ9Y8agGP2cs52fXMYv1nLHBNSpQI2ZTJK1X1J95FMjuGr83tnDCxX\noNSbQmCTCiRR3SmkVUoklfzeP/SYZOGSgsn8eO5MmtpieyxYsMiHyuHa/GkM9JMF\nEyzI617Vkc3JKdIi5M67RfEL6SLDAMtlZiMryDafPBQ0fO7hfeAuv8xN3Zgj33M=\n=zkXM\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 4890f02e4bfb833cecdf8fd98e15f02e2b6c1821\nauthor ta-datapt-bcn <50545821+ta-datapt-bcn@users.noreply.github.com> 1559292970 +0200\ncommitter GitHub <noreply@github.com> 1559292970 +0200\n\nInitial commit"
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/commits/8d445d2ef6b9e805320bcedff2e5cc927c38f75b",
+    "html_url": "https://github.com/ta-datapt-bcn/lab-git-basics-merge-conflicts/commit/8d445d2ef6b9e805320bcedff2e5cc927c38f75b",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/lab-git-basics-merge-conflicts/commits/8d445d2ef6b9e805320bcedff2e5cc927c38f75b/comments",
+    "author": {
+      "login": "ta-datapt-bcn",
+      "id": 50545821,
+      "node_id": "MDQ6VXNlcjUwNTQ1ODIx",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/50545821?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ta-datapt-bcn",
+      "html_url": "https://github.com/ta-datapt-bcn",
+      "followers_url": "https://api.github.com/users/ta-datapt-bcn/followers",
+      "following_url": "https://api.github.com/users/ta-datapt-bcn/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ta-datapt-bcn/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ta-datapt-bcn/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ta-datapt-bcn/subscriptions",
+      "organizations_url": "https://api.github.com/users/ta-datapt-bcn/orgs",
+      "repos_url": "https://api.github.com/users/ta-datapt-bcn/repos",
+      "events_url": "https://api.github.com/users/ta-datapt-bcn/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ta-datapt-bcn/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+
+    ]
+  }
+]

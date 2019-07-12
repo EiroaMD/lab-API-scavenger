@@ -1,0 +1,235 @@
+[
+  {
+    "sha": "a18768e4dff57f0384a9b4f1f0a2d7ab27d8ec99",
+    "node_id": "MDY6Q29tbWl0MTkzMTM1MTUzOmExODc2OGU0ZGZmNTdmMDM4NGE5YjRmMWYwYTJkN2FiMjdkOGVjOTk=",
+    "commit": {
+      "author": {
+        "name": "myrto",
+        "email": "myrtosetzi@gmail.com",
+        "date": "2019-06-21T17:29:37Z"
+      },
+      "committer": {
+        "name": "myrto",
+        "email": "myrtosetzi@gmail.com",
+        "date": "2019-06-21T17:29:37Z"
+      },
+      "message": "fixed some typos",
+      "tree": {
+        "sha": "044d61cce24f7e0ce21ad9a9e2b8e5b843a57823",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/lab-advanced-sql/git/trees/044d61cce24f7e0ce21ad9a9e2b8e5b843a57823"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/lab-advanced-sql/git/commits/a18768e4dff57f0384a9b4f1f0a2d7ab27d8ec99",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/lab-advanced-sql/commits/a18768e4dff57f0384a9b4f1f0a2d7ab27d8ec99",
+    "html_url": "https://github.com/ta-datapt-bcn/lab-advanced-sql/commit/a18768e4dff57f0384a9b4f1f0a2d7ab27d8ec99",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/lab-advanced-sql/commits/a18768e4dff57f0384a9b4f1f0a2d7ab27d8ec99/comments",
+    "author": {
+      "login": "myrtosetzi",
+      "id": 13872050,
+      "node_id": "MDQ6VXNlcjEzODcyMDUw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13872050?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/myrtosetzi",
+      "html_url": "https://github.com/myrtosetzi",
+      "followers_url": "https://api.github.com/users/myrtosetzi/followers",
+      "following_url": "https://api.github.com/users/myrtosetzi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/myrtosetzi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/myrtosetzi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/myrtosetzi/subscriptions",
+      "organizations_url": "https://api.github.com/users/myrtosetzi/orgs",
+      "repos_url": "https://api.github.com/users/myrtosetzi/repos",
+      "events_url": "https://api.github.com/users/myrtosetzi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/myrtosetzi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "myrtosetzi",
+      "id": 13872050,
+      "node_id": "MDQ6VXNlcjEzODcyMDUw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13872050?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/myrtosetzi",
+      "html_url": "https://github.com/myrtosetzi",
+      "followers_url": "https://api.github.com/users/myrtosetzi/followers",
+      "following_url": "https://api.github.com/users/myrtosetzi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/myrtosetzi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/myrtosetzi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/myrtosetzi/subscriptions",
+      "organizations_url": "https://api.github.com/users/myrtosetzi/orgs",
+      "repos_url": "https://api.github.com/users/myrtosetzi/repos",
+      "events_url": "https://api.github.com/users/myrtosetzi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/myrtosetzi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b6827b0de74f4847344ee7aac5881079a98bc0da",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/lab-advanced-sql/commits/b6827b0de74f4847344ee7aac5881079a98bc0da",
+        "html_url": "https://github.com/ta-datapt-bcn/lab-advanced-sql/commit/b6827b0de74f4847344ee7aac5881079a98bc0da"
+      }
+    ]
+  },
+  {
+    "sha": "b6827b0de74f4847344ee7aac5881079a98bc0da",
+    "node_id": "MDY6Q29tbWl0MTkzMTM1MTUzOmI2ODI3YjBkZTc0ZjQ4NDczNDRlZTdhYWM1ODgxMDc5YTk4YmMwZGE=",
+    "commit": {
+      "author": {
+        "name": "myrto",
+        "email": "myrtosetzi@gmail.com",
+        "date": "2019-06-21T17:26:37Z"
+      },
+      "committer": {
+        "name": "myrto",
+        "email": "myrtosetzi@gmail.com",
+        "date": "2019-06-21T17:26:37Z"
+      },
+      "message": "added advanced sql lab",
+      "tree": {
+        "sha": "f499157ad49600d7ee43cc60469a80f106aba6f6",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/lab-advanced-sql/git/trees/f499157ad49600d7ee43cc60469a80f106aba6f6"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/lab-advanced-sql/git/commits/b6827b0de74f4847344ee7aac5881079a98bc0da",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/lab-advanced-sql/commits/b6827b0de74f4847344ee7aac5881079a98bc0da",
+    "html_url": "https://github.com/ta-datapt-bcn/lab-advanced-sql/commit/b6827b0de74f4847344ee7aac5881079a98bc0da",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/lab-advanced-sql/commits/b6827b0de74f4847344ee7aac5881079a98bc0da/comments",
+    "author": {
+      "login": "myrtosetzi",
+      "id": 13872050,
+      "node_id": "MDQ6VXNlcjEzODcyMDUw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13872050?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/myrtosetzi",
+      "html_url": "https://github.com/myrtosetzi",
+      "followers_url": "https://api.github.com/users/myrtosetzi/followers",
+      "following_url": "https://api.github.com/users/myrtosetzi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/myrtosetzi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/myrtosetzi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/myrtosetzi/subscriptions",
+      "organizations_url": "https://api.github.com/users/myrtosetzi/orgs",
+      "repos_url": "https://api.github.com/users/myrtosetzi/repos",
+      "events_url": "https://api.github.com/users/myrtosetzi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/myrtosetzi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "myrtosetzi",
+      "id": 13872050,
+      "node_id": "MDQ6VXNlcjEzODcyMDUw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13872050?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/myrtosetzi",
+      "html_url": "https://github.com/myrtosetzi",
+      "followers_url": "https://api.github.com/users/myrtosetzi/followers",
+      "following_url": "https://api.github.com/users/myrtosetzi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/myrtosetzi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/myrtosetzi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/myrtosetzi/subscriptions",
+      "organizations_url": "https://api.github.com/users/myrtosetzi/orgs",
+      "repos_url": "https://api.github.com/users/myrtosetzi/repos",
+      "events_url": "https://api.github.com/users/myrtosetzi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/myrtosetzi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "4e4b722b7f4a820f0f4691d38b0b730e0d89ccdf",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/lab-advanced-sql/commits/4e4b722b7f4a820f0f4691d38b0b730e0d89ccdf",
+        "html_url": "https://github.com/ta-datapt-bcn/lab-advanced-sql/commit/4e4b722b7f4a820f0f4691d38b0b730e0d89ccdf"
+      }
+    ]
+  },
+  {
+    "sha": "4e4b722b7f4a820f0f4691d38b0b730e0d89ccdf",
+    "node_id": "MDY6Q29tbWl0MTkzMTM1MTUzOjRlNGI3MjJiN2Y0YTgyMGYwZjQ2OTFkMzhiMGI3MzBlMGQ4OWNjZGY=",
+    "commit": {
+      "author": {
+        "name": "ta-datapt-bcn",
+        "email": "50545821+ta-datapt-bcn@users.noreply.github.com",
+        "date": "2019-06-21T17:15:21Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2019-06-21T17:15:21Z"
+      },
+      "message": "Initial commit",
+      "tree": {
+        "sha": "c917289838b8801e63a23da8fe5368be960c571b",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/lab-advanced-sql/git/trees/c917289838b8801e63a23da8fe5368be960c571b"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/lab-advanced-sql/git/commits/4e4b722b7f4a820f0f4691d38b0b730e0d89ccdf",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJdDRCpCRBK7hj4Ov3rIwAAdHIIAHqwvMqVCMqwxj2zl8iUVeSP\n3PsKV9BnGQKA+8ElGq7s4WeRFTMGFObHsuHXyQPjIEozFm4eymudlghKCWq912EA\nkN6n10lBCfAMEmnr5tUUa1M6+oeBSGkq/JcTLPQxmyIVQ1zDx0RmL+E/YM70XBwU\nDDa5x7rrgpqSPLpbkw9yyB5pNVQNOTnSxl6WizaxhUSXEIGvbFmTm2FNbobgtnNn\nItfuX0KUINnWYrCKegch4StB8tzNkDUI+/pUff2xkjYFfgMcCATZTOQeJrvcjg/d\nAkixlsU1H4T2ZHYMgazvmZOJSa7vu4fGHteY70okBw5Wqh88UYnbmVSGCMtLw0Q=\n=j9i2\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree c917289838b8801e63a23da8fe5368be960c571b\nauthor ta-datapt-bcn <50545821+ta-datapt-bcn@users.noreply.github.com> 1561137321 +0200\ncommitter GitHub <noreply@github.com> 1561137321 +0200\n\nInitial commit"
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/lab-advanced-sql/commits/4e4b722b7f4a820f0f4691d38b0b730e0d89ccdf",
+    "html_url": "https://github.com/ta-datapt-bcn/lab-advanced-sql/commit/4e4b722b7f4a820f0f4691d38b0b730e0d89ccdf",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/lab-advanced-sql/commits/4e4b722b7f4a820f0f4691d38b0b730e0d89ccdf/comments",
+    "author": {
+      "login": "ta-datapt-bcn",
+      "id": 50545821,
+      "node_id": "MDQ6VXNlcjUwNTQ1ODIx",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/50545821?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ta-datapt-bcn",
+      "html_url": "https://github.com/ta-datapt-bcn",
+      "followers_url": "https://api.github.com/users/ta-datapt-bcn/followers",
+      "following_url": "https://api.github.com/users/ta-datapt-bcn/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ta-datapt-bcn/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ta-datapt-bcn/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ta-datapt-bcn/subscriptions",
+      "organizations_url": "https://api.github.com/users/ta-datapt-bcn/orgs",
+      "repos_url": "https://api.github.com/users/ta-datapt-bcn/repos",
+      "events_url": "https://api.github.com/users/ta-datapt-bcn/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ta-datapt-bcn/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+
+    ]
+  }
+]

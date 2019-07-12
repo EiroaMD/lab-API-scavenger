@@ -1,0 +1,66 @@
+[
+  {
+    "name": ".0014.scavengerhunt",
+    "path": "49418/.0014.scavengerhunt",
+    "sha": "1c9064284a24b3486015eafdb391b141c27ada2b",
+    "size": 3,
+    "url": "https://api.github.com/repos/EiroaMD/scavenger/contents/49418/.0014.scavengerhunt?ref=master",
+    "html_url": "https://github.com/EiroaMD/scavenger/blob/master/49418/.0014.scavengerhunt",
+    "git_url": "https://api.github.com/repos/EiroaMD/scavenger/git/blobs/1c9064284a24b3486015eafdb391b141c27ada2b",
+    "download_url": "https://raw.githubusercontent.com/EiroaMD/scavenger/master/49418/.0014.scavengerhunt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/EiroaMD/scavenger/contents/49418/.0014.scavengerhunt?ref=master",
+      "git": "https://api.github.com/repos/EiroaMD/scavenger/git/blobs/1c9064284a24b3486015eafdb391b141c27ada2b",
+      "html": "https://github.com/EiroaMD/scavenger/blob/master/49418/.0014.scavengerhunt"
+    }
+  },
+  {
+    "name": "30",
+    "path": "49418/30",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/EiroaMD/scavenger/contents/49418/30?ref=master",
+    "html_url": "https://github.com/EiroaMD/scavenger/blob/master/49418/30",
+    "git_url": "https://api.github.com/repos/EiroaMD/scavenger/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "download_url": "https://raw.githubusercontent.com/EiroaMD/scavenger/master/49418/30",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/EiroaMD/scavenger/contents/49418/30?ref=master",
+      "git": "https://api.github.com/repos/EiroaMD/scavenger/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "html": "https://github.com/EiroaMD/scavenger/blob/master/49418/30"
+    }
+  },
+  {
+    "name": "38",
+    "path": "49418/38",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/EiroaMD/scavenger/contents/49418/38?ref=master",
+    "html_url": "https://github.com/EiroaMD/scavenger/blob/master/49418/38",
+    "git_url": "https://api.github.com/repos/EiroaMD/scavenger/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "download_url": "https://raw.githubusercontent.com/EiroaMD/scavenger/master/49418/38",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/EiroaMD/scavenger/contents/49418/38?ref=master",
+      "git": "https://api.github.com/repos/EiroaMD/scavenger/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "html": "https://github.com/EiroaMD/scavenger/blob/master/49418/38"
+    }
+  },
+  {
+    "name": "84",
+    "path": "49418/84",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/EiroaMD/scavenger/contents/49418/84?ref=master",
+    "html_url": "https://github.com/EiroaMD/scavenger/blob/master/49418/84",
+    "git_url": "https://api.github.com/repos/EiroaMD/scavenger/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "download_url": "https://raw.githubusercontent.com/EiroaMD/scavenger/master/49418/84",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/EiroaMD/scavenger/contents/49418/84?ref=master",
+      "git": "https://api.github.com/repos/EiroaMD/scavenger/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "html": "https://github.com/EiroaMD/scavenger/blob/master/49418/84"
+    }
+  }
+]

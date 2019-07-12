@@ -1,0 +1,77 @@
+[
+  {
+    "sha": "aed3fad1c007d18879e30c4a58daab7f7800353d",
+    "node_id": "MDY6Q29tbWl0MTg4Nzc5MjE5OmFlZDNmYWQxYzAwN2QxODg3OWUzMGM0YTU4ZGFhYjdmNzgwMDM1M2Q=",
+    "commit": {
+      "author": {
+        "name": "myrtosetzi",
+        "email": "myrtosetzi@gmail.com",
+        "date": "2019-05-27T05:48:15Z"
+      },
+      "committer": {
+        "name": "myrtosetzi",
+        "email": "myrtosetzi@gmail.com",
+        "date": "2019-05-27T05:48:15Z"
+      },
+      "message": "First commit",
+      "tree": {
+        "sha": "8e954427d1153a490894881f7e750bd5d19be6b3",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/lab-tuple-set-dict/git/trees/8e954427d1153a490894881f7e750bd5d19be6b3"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/lab-tuple-set-dict/git/commits/aed3fad1c007d18879e30c4a58daab7f7800353d",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/lab-tuple-set-dict/commits/aed3fad1c007d18879e30c4a58daab7f7800353d",
+    "html_url": "https://github.com/ta-datapt-bcn/lab-tuple-set-dict/commit/aed3fad1c007d18879e30c4a58daab7f7800353d",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/lab-tuple-set-dict/commits/aed3fad1c007d18879e30c4a58daab7f7800353d/comments",
+    "author": {
+      "login": "myrtosetzi",
+      "id": 13872050,
+      "node_id": "MDQ6VXNlcjEzODcyMDUw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13872050?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/myrtosetzi",
+      "html_url": "https://github.com/myrtosetzi",
+      "followers_url": "https://api.github.com/users/myrtosetzi/followers",
+      "following_url": "https://api.github.com/users/myrtosetzi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/myrtosetzi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/myrtosetzi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/myrtosetzi/subscriptions",
+      "organizations_url": "https://api.github.com/users/myrtosetzi/orgs",
+      "repos_url": "https://api.github.com/users/myrtosetzi/repos",
+      "events_url": "https://api.github.com/users/myrtosetzi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/myrtosetzi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "myrtosetzi",
+      "id": 13872050,
+      "node_id": "MDQ6VXNlcjEzODcyMDUw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13872050?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/myrtosetzi",
+      "html_url": "https://github.com/myrtosetzi",
+      "followers_url": "https://api.github.com/users/myrtosetzi/followers",
+      "following_url": "https://api.github.com/users/myrtosetzi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/myrtosetzi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/myrtosetzi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/myrtosetzi/subscriptions",
+      "organizations_url": "https://api.github.com/users/myrtosetzi/orgs",
+      "repos_url": "https://api.github.com/users/myrtosetzi/repos",
+      "events_url": "https://api.github.com/users/myrtosetzi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/myrtosetzi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+
+    ]
+  }
+]

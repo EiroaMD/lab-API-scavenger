@@ -1,0 +1,1342 @@
+[
+  {
+    "sha": "62bdc3ff0b38606ae94f07488b087443c23ca231",
+    "node_id": "MDY6Q29tbWl0MTg2MjQ3NTE2OjYyYmRjM2ZmMGIzODYwNmFlOTRmMDc0ODhiMDg3NDQzYzIzY2EyMzE=",
+    "commit": {
+      "author": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-01-31T19:47:08Z"
+      },
+      "committer": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-01-31T19:47:08Z"
+      },
+      "message": "update readme",
+      "tree": {
+        "sha": "444b0ac990cff01d407d2752f07867654a90800d",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/trees/444b0ac990cff01d407d2752f07867654a90800d"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/commits/62bdc3ff0b38606ae94f07488b087443c23ca231",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/62bdc3ff0b38606ae94f07488b087443c23ca231",
+    "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/62bdc3ff0b38606ae94f07488b087443c23ca231",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/62bdc3ff0b38606ae94f07488b087443c23ca231/comments",
+    "author": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7839997a91a6de5c086113ea1a5ff1514cde7a8e",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/7839997a91a6de5c086113ea1a5ff1514cde7a8e",
+        "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/7839997a91a6de5c086113ea1a5ff1514cde7a8e"
+      }
+    ]
+  },
+  {
+    "sha": "7839997a91a6de5c086113ea1a5ff1514cde7a8e",
+    "node_id": "MDY6Q29tbWl0MTg2MjQ3NTE2Ojc4Mzk5OTdhOTFhNmRlNWMwODYxMTNlYTFhNWZmMTUxNGNkZTdhOGU=",
+    "commit": {
+      "author": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-01-31T19:43:43Z"
+      },
+      "committer": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-01-31T19:43:43Z"
+      },
+      "message": "Merge branch 'master' of https://github.com/ironhack-labs/data-prework-labs",
+      "tree": {
+        "sha": "55c0221d6bcb3b161b14b7449be3879cd9c300ee",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/trees/55c0221d6bcb3b161b14b7449be3879cd9c300ee"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/commits/7839997a91a6de5c086113ea1a5ff1514cde7a8e",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/7839997a91a6de5c086113ea1a5ff1514cde7a8e",
+    "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/7839997a91a6de5c086113ea1a5ff1514cde7a8e",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/7839997a91a6de5c086113ea1a5ff1514cde7a8e/comments",
+    "author": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "06f18797a47c83274087104d9554cae6a1d23026",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/06f18797a47c83274087104d9554cae6a1d23026",
+        "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/06f18797a47c83274087104d9554cae6a1d23026"
+      },
+      {
+        "sha": "c2c60fd55faea5f8d88c10b880ccd8e56e9cb95f",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/c2c60fd55faea5f8d88c10b880ccd8e56e9cb95f",
+        "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/c2c60fd55faea5f8d88c10b880ccd8e56e9cb95f"
+      }
+    ]
+  },
+  {
+    "sha": "06f18797a47c83274087104d9554cae6a1d23026",
+    "node_id": "MDY6Q29tbWl0MTg2MjQ3NTE2OjA2ZjE4Nzk3YTQ3YzgzMjc0MDg3MTA0ZDk1NTRjYWU2YTFkMjMwMjY=",
+    "commit": {
+      "author": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-01-31T19:42:50Z"
+      },
+      "committer": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-01-31T19:42:50Z"
+      },
+      "message": "updated readme",
+      "tree": {
+        "sha": "56812b54f3db488a128472da5d8ea39e1a7edaa9",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/trees/56812b54f3db488a128472da5d8ea39e1a7edaa9"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/commits/06f18797a47c83274087104d9554cae6a1d23026",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/06f18797a47c83274087104d9554cae6a1d23026",
+    "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/06f18797a47c83274087104d9554cae6a1d23026",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/06f18797a47c83274087104d9554cae6a1d23026/comments",
+    "author": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ddb210a67b9cfdbdeff16a340d8a9809cf0cbe81",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/ddb210a67b9cfdbdeff16a340d8a9809cf0cbe81",
+        "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/ddb210a67b9cfdbdeff16a340d8a9809cf0cbe81"
+      }
+    ]
+  },
+  {
+    "sha": "ddb210a67b9cfdbdeff16a340d8a9809cf0cbe81",
+    "node_id": "MDY6Q29tbWl0MTg2MjQ3NTE2OmRkYjIxMGE2N2I5Y2ZkYmRlZmYxNmEzNDBkOGE5ODA5Y2YwY2JlODE=",
+    "commit": {
+      "author": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-01-31T19:13:42Z"
+      },
+      "committer": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-01-31T19:13:42Z"
+      },
+      "message": "removed solutions",
+      "tree": {
+        "sha": "f7aabeb9ff4dbe194f2a80200acad270e251f506",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/trees/f7aabeb9ff4dbe194f2a80200acad270e251f506"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/commits/ddb210a67b9cfdbdeff16a340d8a9809cf0cbe81",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/ddb210a67b9cfdbdeff16a340d8a9809cf0cbe81",
+    "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/ddb210a67b9cfdbdeff16a340d8a9809cf0cbe81",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/ddb210a67b9cfdbdeff16a340d8a9809cf0cbe81/comments",
+    "author": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9cc572fe9b408789d8327549ab5828de43c854ef",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/9cc572fe9b408789d8327549ab5828de43c854ef",
+        "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/9cc572fe9b408789d8327549ab5828de43c854ef"
+      }
+    ]
+  },
+  {
+    "sha": "c2c60fd55faea5f8d88c10b880ccd8e56e9cb95f",
+    "node_id": "MDY6Q29tbWl0MTg2MjQ3NTE2OmMyYzYwZmQ1NWZhZWE1ZjhkODhjMTBiODgwY2NkOGU1NmU5Y2I5NWY=",
+    "commit": {
+      "author": {
+        "name": "Zhou Zhou",
+        "email": "zhou.eye8@gmail.com",
+        "date": "2019-01-31T19:10:01Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2019-01-31T19:10:01Z"
+      },
+      "message": "Initial commit",
+      "tree": {
+        "sha": "efcd0349c5637c85f81f3e2341b2082109ee792e",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/trees/efcd0349c5637c85f81f3e2341b2082109ee792e"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/commits/c2c60fd55faea5f8d88c10b880ccd8e56e9cb95f",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJcU0gJCRBK7hj4Ov3rIwAAdHIIAB6fMR57JpEPf/nH9WBGqa5H\nIkQg6gwmDx4jThzy7qWo+YwNdc8yuKwvfE1OsntV0hbpErVIb9WdpeTx2nRpA6C3\n56rt3LE9T4mX6CkKZu1ZWUFCpwfEwvYA/sxi3TYHBbPua2yKflLKjHh8K6vfif9X\ncmVhgYhGrZD2c/L0jMb/ALoTUm7zi1QDYA1KMQxYCJVVBpEtrqZAzNWwrxrRauPA\nA8GlP8HEyN/HUPTiiHd521AlgtyZZ1NE5E+A5A6S/ybMFU6s0LTCc634BkeSBiye\n2o2vIeAwSlYD1ww0lCxJgseqDxXBtGdgpfMj+o8Fhd5GDTxSLJiBxD09LZ7+gxI=\n=5PUh\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree efcd0349c5637c85f81f3e2341b2082109ee792e\nauthor Zhou Zhou <zhou.eye8@gmail.com> 1548961801 -0500\ncommitter GitHub <noreply@github.com> 1548961801 -0500\n\nInitial commit"
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/c2c60fd55faea5f8d88c10b880ccd8e56e9cb95f",
+    "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/c2c60fd55faea5f8d88c10b880ccd8e56e9cb95f",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/c2c60fd55faea5f8d88c10b880ccd8e56e9cb95f/comments",
+    "author": {
+      "login": "eye8",
+      "id": 1659798,
+      "node_id": "MDQ6VXNlcjE2NTk3OTg=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1659798?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/eye8",
+      "html_url": "https://github.com/eye8",
+      "followers_url": "https://api.github.com/users/eye8/followers",
+      "following_url": "https://api.github.com/users/eye8/following{/other_user}",
+      "gists_url": "https://api.github.com/users/eye8/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/eye8/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/eye8/subscriptions",
+      "organizations_url": "https://api.github.com/users/eye8/orgs",
+      "repos_url": "https://api.github.com/users/eye8/repos",
+      "events_url": "https://api.github.com/users/eye8/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/eye8/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+
+    ]
+  },
+  {
+    "sha": "9cc572fe9b408789d8327549ab5828de43c854ef",
+    "node_id": "MDY6Q29tbWl0MTg2MjQ3NTE2OjljYzU3MmZlOWI0MDg3ODlkODMyNzU0OWFiNTgyOGRlNDNjODU0ZWY=",
+    "commit": {
+      "author": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-30T12:54:37Z"
+      },
+      "committer": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-30T12:54:37Z"
+      },
+      "message": "dos archivos: uno con enunciado, otro con enunciado y solución",
+      "tree": {
+        "sha": "cd9ec5a9543ad19c12e983d5f14b88aad9558593",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/trees/cd9ec5a9543ad19c12e983d5f14b88aad9558593"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/commits/9cc572fe9b408789d8327549ab5828de43c854ef",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/9cc572fe9b408789d8327549ab5828de43c854ef",
+    "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/9cc572fe9b408789d8327549ab5828de43c854ef",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/9cc572fe9b408789d8327549ab5828de43c854ef/comments",
+    "author": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "494ba2ec7f829a97d32ab302b26f6b3af64fa8bc",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/494ba2ec7f829a97d32ab302b26f6b3af64fa8bc",
+        "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/494ba2ec7f829a97d32ab302b26f6b3af64fa8bc"
+      }
+    ]
+  },
+  {
+    "sha": "494ba2ec7f829a97d32ab302b26f6b3af64fa8bc",
+    "node_id": "MDY6Q29tbWl0MTg2MjQ3NTE2OjQ5NGJhMmVjN2Y4MjlhOTdkMzJhYjMwMmIyNmY2YjNhZjY0ZmE4YmM=",
+    "commit": {
+      "author": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-30T12:35:57Z"
+      },
+      "committer": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-30T12:35:57Z"
+      },
+      "message": "readme.md",
+      "tree": {
+        "sha": "dc8a74fe2015ddbe5478d905fdca9a56746bf02d",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/trees/dc8a74fe2015ddbe5478d905fdca9a56746bf02d"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/commits/494ba2ec7f829a97d32ab302b26f6b3af64fa8bc",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/494ba2ec7f829a97d32ab302b26f6b3af64fa8bc",
+    "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/494ba2ec7f829a97d32ab302b26f6b3af64fa8bc",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/494ba2ec7f829a97d32ab302b26f6b3af64fa8bc/comments",
+    "author": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "cf99897673d5c420e04b05262fa84ee77c5dd769",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/cf99897673d5c420e04b05262fa84ee77c5dd769",
+        "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/cf99897673d5c420e04b05262fa84ee77c5dd769"
+      }
+    ]
+  },
+  {
+    "sha": "cf99897673d5c420e04b05262fa84ee77c5dd769",
+    "node_id": "MDY6Q29tbWl0MTg2MjQ3NTE2OmNmOTk4OTc2NzNkNWM0MjBlMDRiMDUyNjJmYTg0ZWU3N2M1ZGQ3Njk=",
+    "commit": {
+      "author": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-30T11:51:20Z"
+      },
+      "committer": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-30T11:51:20Z"
+      },
+      "message": "todo en inglés",
+      "tree": {
+        "sha": "cba680896117b4d99fb4f01562a9c5975deb191e",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/trees/cba680896117b4d99fb4f01562a9c5975deb191e"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/commits/cf99897673d5c420e04b05262fa84ee77c5dd769",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/cf99897673d5c420e04b05262fa84ee77c5dd769",
+    "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/cf99897673d5c420e04b05262fa84ee77c5dd769",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/cf99897673d5c420e04b05262fa84ee77c5dd769/comments",
+    "author": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "75f8a9eba050da8325f32f5937ec8a790b635851",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/75f8a9eba050da8325f32f5937ec8a790b635851",
+        "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/75f8a9eba050da8325f32f5937ec8a790b635851"
+      }
+    ]
+  },
+  {
+    "sha": "75f8a9eba050da8325f32f5937ec8a790b635851",
+    "node_id": "MDY6Q29tbWl0MTg2MjQ3NTE2Ojc1ZjhhOWViYTA1MGRhODMyNWYzMmY1OTM3ZWM4YTc5MGI2MzU4NTE=",
+    "commit": {
+      "author": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-30T11:35:07Z"
+      },
+      "committer": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-30T11:35:07Z"
+      },
+      "message": "traduciendo al inglés",
+      "tree": {
+        "sha": "d0e0698f8157c089e7c73c9466650be4e53a7a1d",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/trees/d0e0698f8157c089e7c73c9466650be4e53a7a1d"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/commits/75f8a9eba050da8325f32f5937ec8a790b635851",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/75f8a9eba050da8325f32f5937ec8a790b635851",
+    "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/75f8a9eba050da8325f32f5937ec8a790b635851",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/75f8a9eba050da8325f32f5937ec8a790b635851/comments",
+    "author": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "03e280be0d07d47d8b2e497999ea8b2f73675a14",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/03e280be0d07d47d8b2e497999ea8b2f73675a14",
+        "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/03e280be0d07d47d8b2e497999ea8b2f73675a14"
+      }
+    ]
+  },
+  {
+    "sha": "03e280be0d07d47d8b2e497999ea8b2f73675a14",
+    "node_id": "MDY6Q29tbWl0MTg2MjQ3NTE2OjAzZTI4MGJlMGQwN2Q0N2Q4YjJlNDk3OTk5ZWE4YjJmNzM2NzVhMTQ=",
+    "commit": {
+      "author": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-24T15:36:05Z"
+      },
+      "committer": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-24T15:36:05Z"
+      },
+      "message": "traduciión readme",
+      "tree": {
+        "sha": "e7414aa905d7e536209bc577f1d94663967ba7cb",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/trees/e7414aa905d7e536209bc577f1d94663967ba7cb"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/commits/03e280be0d07d47d8b2e497999ea8b2f73675a14",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/03e280be0d07d47d8b2e497999ea8b2f73675a14",
+    "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/03e280be0d07d47d8b2e497999ea8b2f73675a14",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/03e280be0d07d47d8b2e497999ea8b2f73675a14/comments",
+    "author": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "271eda7ae133380cd179ef64949209e399ec05bd",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/271eda7ae133380cd179ef64949209e399ec05bd",
+        "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/271eda7ae133380cd179ef64949209e399ec05bd"
+      }
+    ]
+  },
+  {
+    "sha": "271eda7ae133380cd179ef64949209e399ec05bd",
+    "node_id": "MDY6Q29tbWl0MTg2MjQ3NTE2OjI3MWVkYTdhZTEzMzM4MGNkMTc5ZWY2NDk0OTIwOWUzOTllYzA1YmQ=",
+    "commit": {
+      "author": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-24T12:37:38Z"
+      },
+      "committer": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-24T12:37:38Z"
+      },
+      "message": "generamos archivos jupyter en INGLES para Zhou",
+      "tree": {
+        "sha": "b007ff2685e293bdf9a676654d6420bba0a4461e",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/trees/b007ff2685e293bdf9a676654d6420bba0a4461e"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/commits/271eda7ae133380cd179ef64949209e399ec05bd",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/271eda7ae133380cd179ef64949209e399ec05bd",
+    "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/271eda7ae133380cd179ef64949209e399ec05bd",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/271eda7ae133380cd179ef64949209e399ec05bd/comments",
+    "author": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "3b93c3c8ddacbba8a341526ce8178ae460703ce7",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/3b93c3c8ddacbba8a341526ce8178ae460703ce7",
+        "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/3b93c3c8ddacbba8a341526ce8178ae460703ce7"
+      }
+    ]
+  },
+  {
+    "sha": "3b93c3c8ddacbba8a341526ce8178ae460703ce7",
+    "node_id": "MDY6Q29tbWl0MTg2MjQ3NTE2OjNiOTNjM2M4ZGRhY2JiYThhMzQxNTI2Y2U4MTc4YWU0NjA3MDNjZTc=",
+    "commit": {
+      "author": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-14T08:41:07Z"
+      },
+      "committer": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-14T08:41:07Z"
+      },
+      "message": "robin-hood y bus",
+      "tree": {
+        "sha": "7b6310dc815aa189a084f2e0087aedc590e2f492",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/trees/7b6310dc815aa189a084f2e0087aedc590e2f492"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/commits/3b93c3c8ddacbba8a341526ce8178ae460703ce7",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/3b93c3c8ddacbba8a341526ce8178ae460703ce7",
+    "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/3b93c3c8ddacbba8a341526ce8178ae460703ce7",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/3b93c3c8ddacbba8a341526ce8178ae460703ce7/comments",
+    "author": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "967410dd3c9feda49f247dd75649a9d21a5425df",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/967410dd3c9feda49f247dd75649a9d21a5425df",
+        "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/967410dd3c9feda49f247dd75649a9d21a5425df"
+      }
+    ]
+  },
+  {
+    "sha": "967410dd3c9feda49f247dd75649a9d21a5425df",
+    "node_id": "MDY6Q29tbWl0MTg2MjQ3NTE2Ojk2NzQxMGRkM2M5ZmVkYTQ5ZjI0N2RkNzU2NDlhOWQyMWE1NDI1ZGY=",
+    "commit": {
+      "author": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-11T14:19:21Z"
+      },
+      "committer": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-11T14:19:21Z"
+      },
+      "message": "creamos otro juego popular, piedra papel tijeras",
+      "tree": {
+        "sha": "b51aaa9ecce5e22b6e9acac676c2771ebc122400",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/trees/b51aaa9ecce5e22b6e9acac676c2771ebc122400"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/commits/967410dd3c9feda49f247dd75649a9d21a5425df",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/967410dd3c9feda49f247dd75649a9d21a5425df",
+    "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/967410dd3c9feda49f247dd75649a9d21a5425df",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/967410dd3c9feda49f247dd75649a9d21a5425df/comments",
+    "author": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "845b91ad8b3e631866bc94a664151e9ea2456706",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/845b91ad8b3e631866bc94a664151e9ea2456706",
+        "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/845b91ad8b3e631866bc94a664151e9ea2456706"
+      }
+    ]
+  },
+  {
+    "sha": "845b91ad8b3e631866bc94a664151e9ea2456706",
+    "node_id": "MDY6Q29tbWl0MTg2MjQ3NTE2Ojg0NWI5MWFkOGIzZTYzMTg2NmJjOTRhNjY0MTUxZTllYTI0NTY3MDY=",
+    "commit": {
+      "author": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-10T13:10:14Z"
+      },
+      "committer": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-10T13:10:14Z"
+      },
+      "message": "cambio de nombre de los archivos que describen los problemas para que se vean en github",
+      "tree": {
+        "sha": "fd7eaa92417828dcbb3aa454ee60b3afdf4ff55c",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/trees/fd7eaa92417828dcbb3aa454ee60b3afdf4ff55c"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/commits/845b91ad8b3e631866bc94a664151e9ea2456706",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/845b91ad8b3e631866bc94a664151e9ea2456706",
+    "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/845b91ad8b3e631866bc94a664151e9ea2456706",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/845b91ad8b3e631866bc94a664151e9ea2456706/comments",
+    "author": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "763661c0b154b632044b0843385f483afb6e742f",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/763661c0b154b632044b0843385f483afb6e742f",
+        "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/763661c0b154b632044b0843385f483afb6e742f"
+      }
+    ]
+  },
+  {
+    "sha": "763661c0b154b632044b0843385f483afb6e742f",
+    "node_id": "MDY6Q29tbWl0MTg2MjQ3NTE2Ojc2MzY2MWMwYjE1NGI2MzIwNDRiMDg0MzM4NWY0ODNhZmI2ZTc0MmY=",
+    "commit": {
+      "author": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-10T13:00:33Z"
+      },
+      "committer": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-10T13:00:33Z"
+      },
+      "message": "removed solution",
+      "tree": {
+        "sha": "69c990732e8a8bb0a982ebba9173e7dedef87ec1",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/trees/69c990732e8a8bb0a982ebba9173e7dedef87ec1"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/commits/763661c0b154b632044b0843385f483afb6e742f",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/763661c0b154b632044b0843385f483afb6e742f",
+    "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/763661c0b154b632044b0843385f483afb6e742f",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/763661c0b154b632044b0843385f483afb6e742f/comments",
+    "author": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "91bd80de95c034a9c045b4d688420386aa6615b7",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/91bd80de95c034a9c045b4d688420386aa6615b7",
+        "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/91bd80de95c034a9c045b4d688420386aa6615b7"
+      }
+    ]
+  },
+  {
+    "sha": "91bd80de95c034a9c045b4d688420386aa6615b7",
+    "node_id": "MDY6Q29tbWl0MTg2MjQ3NTE2OjkxYmQ4MGRlOTVjMDM0YTljMDQ1YjRkNjg4NDIwMzg2YWE2NjE1Yjc=",
+    "commit": {
+      "author": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-10T12:57:16Z"
+      },
+      "committer": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-10T12:57:16Z"
+      },
+      "message": "removed solution",
+      "tree": {
+        "sha": "d73b26fd0d3e273338fe41b23b127168ff5e1dab",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/trees/d73b26fd0d3e273338fe41b23b127168ff5e1dab"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/commits/91bd80de95c034a9c045b4d688420386aa6615b7",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/91bd80de95c034a9c045b4d688420386aa6615b7",
+    "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/91bd80de95c034a9c045b4d688420386aa6615b7",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/91bd80de95c034a9c045b4d688420386aa6615b7/comments",
+    "author": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "22d5e6a83527ddc9da2778baec5063cdeebd45e6",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/22d5e6a83527ddc9da2778baec5063cdeebd45e6",
+        "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/22d5e6a83527ddc9da2778baec5063cdeebd45e6"
+      }
+    ]
+  },
+  {
+    "sha": "22d5e6a83527ddc9da2778baec5063cdeebd45e6",
+    "node_id": "MDY6Q29tbWl0MTg2MjQ3NTE2OjIyZDVlNmE4MzUyN2RkYzlkYTI3NzhiYWVjNTA2M2NkZWViZDQ1ZTY=",
+    "commit": {
+      "author": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-10T12:52:17Z"
+      },
+      "committer": {
+        "name": "albertogcmr",
+        "email": "garcia.cobo.alberto@gmail.com",
+        "date": "2019-01-10T12:52:17Z"
+      },
+      "message": "inicio de proyecto",
+      "tree": {
+        "sha": "636b50ed4e50c5a301aefd592d6a0a4a54ebea6e",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/trees/636b50ed4e50c5a301aefd592d6a0a4a54ebea6e"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/git/commits/22d5e6a83527ddc9da2778baec5063cdeebd45e6",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/22d5e6a83527ddc9da2778baec5063cdeebd45e6",
+    "html_url": "https://github.com/ta-datapt-bcn/data-prework-labs/commit/22d5e6a83527ddc9da2778baec5063cdeebd45e6",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/data-prework-labs/commits/22d5e6a83527ddc9da2778baec5063cdeebd45e6/comments",
+    "author": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "albertogcmr",
+      "id": 35075785,
+      "node_id": "MDQ6VXNlcjM1MDc1Nzg1",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35075785?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/albertogcmr",
+      "html_url": "https://github.com/albertogcmr",
+      "followers_url": "https://api.github.com/users/albertogcmr/followers",
+      "following_url": "https://api.github.com/users/albertogcmr/following{/other_user}",
+      "gists_url": "https://api.github.com/users/albertogcmr/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/albertogcmr/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/albertogcmr/subscriptions",
+      "organizations_url": "https://api.github.com/users/albertogcmr/orgs",
+      "repos_url": "https://api.github.com/users/albertogcmr/repos",
+      "events_url": "https://api.github.com/users/albertogcmr/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/albertogcmr/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+
+    ]
+  }
+]

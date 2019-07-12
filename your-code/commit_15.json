@@ -1,0 +1,156 @@
+[
+  {
+    "sha": "1d9c1162766e2128fdd82ad822c63ebaee0138ca",
+    "node_id": "MDY6Q29tbWl0MTkzOTU3NzQyOjFkOWMxMTYyNzY2ZTIxMjhmZGQ4MmFkODIyYzYzZWJhZWUwMTM4Y2E=",
+    "commit": {
+      "author": {
+        "name": "myrto",
+        "email": "myrtosetzi@gmail.com",
+        "date": "2019-06-26T19:00:43Z"
+      },
+      "committer": {
+        "name": "myrto",
+        "email": "myrtosetzi@gmail.com",
+        "date": "2019-06-26T19:00:43Z"
+      },
+      "message": "added pandas lab",
+      "tree": {
+        "sha": "8e682cd374a9793152160ed54f576acdd7b35459",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/lab-pandas/git/trees/8e682cd374a9793152160ed54f576acdd7b35459"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/lab-pandas/git/commits/1d9c1162766e2128fdd82ad822c63ebaee0138ca",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/lab-pandas/commits/1d9c1162766e2128fdd82ad822c63ebaee0138ca",
+    "html_url": "https://github.com/ta-datapt-bcn/lab-pandas/commit/1d9c1162766e2128fdd82ad822c63ebaee0138ca",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/lab-pandas/commits/1d9c1162766e2128fdd82ad822c63ebaee0138ca/comments",
+    "author": {
+      "login": "myrtosetzi",
+      "id": 13872050,
+      "node_id": "MDQ6VXNlcjEzODcyMDUw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13872050?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/myrtosetzi",
+      "html_url": "https://github.com/myrtosetzi",
+      "followers_url": "https://api.github.com/users/myrtosetzi/followers",
+      "following_url": "https://api.github.com/users/myrtosetzi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/myrtosetzi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/myrtosetzi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/myrtosetzi/subscriptions",
+      "organizations_url": "https://api.github.com/users/myrtosetzi/orgs",
+      "repos_url": "https://api.github.com/users/myrtosetzi/repos",
+      "events_url": "https://api.github.com/users/myrtosetzi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/myrtosetzi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "myrtosetzi",
+      "id": 13872050,
+      "node_id": "MDQ6VXNlcjEzODcyMDUw",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/13872050?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/myrtosetzi",
+      "html_url": "https://github.com/myrtosetzi",
+      "followers_url": "https://api.github.com/users/myrtosetzi/followers",
+      "following_url": "https://api.github.com/users/myrtosetzi/following{/other_user}",
+      "gists_url": "https://api.github.com/users/myrtosetzi/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/myrtosetzi/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/myrtosetzi/subscriptions",
+      "organizations_url": "https://api.github.com/users/myrtosetzi/orgs",
+      "repos_url": "https://api.github.com/users/myrtosetzi/repos",
+      "events_url": "https://api.github.com/users/myrtosetzi/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/myrtosetzi/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "2704704ac66265cef5bcaafac0e1d37fb875ad1c",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/lab-pandas/commits/2704704ac66265cef5bcaafac0e1d37fb875ad1c",
+        "html_url": "https://github.com/ta-datapt-bcn/lab-pandas/commit/2704704ac66265cef5bcaafac0e1d37fb875ad1c"
+      }
+    ]
+  },
+  {
+    "sha": "2704704ac66265cef5bcaafac0e1d37fb875ad1c",
+    "node_id": "MDY6Q29tbWl0MTkzOTU3NzQyOjI3MDQ3MDRhYzY2MjY1Y2VmNWJjYWFmYWMwZTFkMzdmYjg3NWFkMWM=",
+    "commit": {
+      "author": {
+        "name": "ta-datapt-bcn",
+        "email": "50545821+ta-datapt-bcn@users.noreply.github.com",
+        "date": "2019-06-26T18:27:32Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2019-06-26T18:27:32Z"
+      },
+      "message": "Initial commit",
+      "tree": {
+        "sha": "feb3ff3180141deacc0acedcda1ecaffc0942d38",
+        "url": "https://api.github.com/repos/ta-datapt-bcn/lab-pandas/git/trees/feb3ff3180141deacc0acedcda1ecaffc0942d38"
+      },
+      "url": "https://api.github.com/repos/ta-datapt-bcn/lab-pandas/git/commits/2704704ac66265cef5bcaafac0e1d37fb875ad1c",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJdE7kUCRBK7hj4Ov3rIwAAdHIIAAY+6KDcroXk0noCOYv+dIfD\n3WaWzTzEsE3VXVYfL7wv0hkJB2KU4dZsO5e1YRL/TQ6GtQzYgeijXkLM7hPqzhgH\nREFFxO6Dzq9IhJ5einOCATGuXUqIuC3uWKmjuY6be9wlM4ku6VwgHQOM/a7W49ru\nrsRe2zRCcpGapshpQBpUdFUd6Pykpul9V7wDjYmXRpVvODPPIAvGfPNdg5Htx4ET\n2yMOT4HB5dmj5PgB1y4ASD7ZHzGuzu6fxNpXgqAv/EXySSDtbseaIMpXFiNwiGzA\n61v5MPUSLoanL+ZbS827TFjLe8m4QII/aKA32vGVn2849GBu72wtn5Z346rUzII=\n=DF0u\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree feb3ff3180141deacc0acedcda1ecaffc0942d38\nauthor ta-datapt-bcn <50545821+ta-datapt-bcn@users.noreply.github.com> 1561573652 +0200\ncommitter GitHub <noreply@github.com> 1561573652 +0200\n\nInitial commit"
+      }
+    },
+    "url": "https://api.github.com/repos/ta-datapt-bcn/lab-pandas/commits/2704704ac66265cef5bcaafac0e1d37fb875ad1c",
+    "html_url": "https://github.com/ta-datapt-bcn/lab-pandas/commit/2704704ac66265cef5bcaafac0e1d37fb875ad1c",
+    "comments_url": "https://api.github.com/repos/ta-datapt-bcn/lab-pandas/commits/2704704ac66265cef5bcaafac0e1d37fb875ad1c/comments",
+    "author": {
+      "login": "ta-datapt-bcn",
+      "id": 50545821,
+      "node_id": "MDQ6VXNlcjUwNTQ1ODIx",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/50545821?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ta-datapt-bcn",
+      "html_url": "https://github.com/ta-datapt-bcn",
+      "followers_url": "https://api.github.com/users/ta-datapt-bcn/followers",
+      "following_url": "https://api.github.com/users/ta-datapt-bcn/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ta-datapt-bcn/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ta-datapt-bcn/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ta-datapt-bcn/subscriptions",
+      "organizations_url": "https://api.github.com/users/ta-datapt-bcn/orgs",
+      "repos_url": "https://api.github.com/users/ta-datapt-bcn/repos",
+      "events_url": "https://api.github.com/users/ta-datapt-bcn/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ta-datapt-bcn/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+
+    ]
+  }
+]
